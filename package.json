@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1"
+  },
+  "name": "excerise",
+  "version": "1.0.0",
+  "main": "ex11.js",
+  "devDependencies": {
+    "@types/node": "^20.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
